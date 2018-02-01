@@ -36,9 +36,9 @@ ALL_BOOST_LIBS=\
 " serialization signals system test thread timer type_erasure wave"
 BOOTSTRAP_LIBS=""
 
-BUILD_IOS=
-BUILD_TVOS=
-BUILD_MACOS=
+BUILD_IOS=1
+BUILD_TVOS=0
+BUILD_MACOS=1
 CLEAN=
 NO_CLEAN=
 NO_FRAMEWORK=
